@@ -6,7 +6,7 @@ public class Purple {
 		System.out.println("Michael");
 		
 		If(var x = 0){
-			var y = 1
+			var y = 2
 		}
 	}
 
